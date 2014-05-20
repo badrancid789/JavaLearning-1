@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        //waaaaaaaaaaah
         /*
         iShape[] shapes = new iShape[]{
                 new Triangle(4,4,4),
