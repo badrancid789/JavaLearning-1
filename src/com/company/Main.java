@@ -4,7 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        /*
         iShape[] shapes = new iShape[]{
                 new Triangle(4,4,4),
                 new Square(4),
@@ -23,7 +22,7 @@ public class Main {
         }catch (Exception ex){
             System.out.println(ex.getMessage());
         }
-        */
+
 
         System.out.println(StringManipulation.removeEvens("Hello Everybody"));
         System.out.println(StringManipulation.removeVowels("I am a little teapot."));
